@@ -2,8 +2,8 @@
 
 - Estudo Web Hacking
 - Já fiz alguns artigos no medium ( Caso queira ler links abaixo )
-- Estudo Web Hacking é programação em <img height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-- A linguagem que mais domino e <img height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+- Estudo Web Hacking é programação em C <img height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+- A linguagem que mais domino e python <img height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
 <div align="center">
   <a href="https://github.com/DiperBlue">
